@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddaaedea.css",
-    "main.js": "/static/js/main.05a41e2a.js",
+    "main.css": "/static/css/main.e8c1b32a.css",
+    "main.js": "/static/js/main.1b269a82.js",
+    "static/media/driftparadise.png": "/static/media/driftparadise.098c1b4dd8111331ada7.png",
+    "static/media/noparachuteunity.png": "/static/media/noparachuteunity.8615701ba00e8b74f971.png",
+    "static/media/drunkhockey.png": "/static/media/drunkhockey.96a2db202a5e021c8ff4.png",
+    "static/media/pubgmta.jpeg": "/static/media/pubgmta.447a3a1bebf9d8e219da.jpeg",
+    "static/media/noparachutelove.jpg": "/static/media/noparachutelove.ab6caf3c52ce4f1e2f8d.jpg",
+    "static/media/toxicrun.png": "/static/media/toxicrun.daedb3285e9c534f9452.png",
+    "static/media/drom.png": "/static/media/drom.ca1888b5d7504f0c977f.png",
     "index.html": "/index.html",
-    "main.ddaaedea.css.map": "/static/css/main.ddaaedea.css.map",
-    "main.05a41e2a.js.map": "/static/js/main.05a41e2a.js.map"
+    "main.e8c1b32a.css.map": "/static/css/main.e8c1b32a.css.map",
+    "main.1b269a82.js.map": "/static/js/main.1b269a82.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddaaedea.css",
-    "static/js/main.05a41e2a.js"
+    "static/css/main.e8c1b32a.css",
+    "static/js/main.1b269a82.js"
   ]
 }
