@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e8c1b32a.css",
-    "main.js": "/static/js/main.40aaf27a.js",
+    "main.js": "/static/js/main.eae69d96.js",
     "static/media/driftparadise.png": "/static/media/driftparadise.098c1b4dd8111331ada7.png",
     "static/media/noparachuteunity.png": "/static/media/noparachuteunity.8615701ba00e8b74f971.png",
     "static/media/drunkhockey.png": "/static/media/drunkhockey.96a2db202a5e021c8ff4.png",
@@ -13,10 +13,10 @@
     "static/media/drom.png": "/static/media/drom.ca1888b5d7504f0c977f.png",
     "index.html": "/index.html",
     "main.e8c1b32a.css.map": "/static/css/main.e8c1b32a.css.map",
-    "main.40aaf27a.js.map": "/static/js/main.40aaf27a.js.map"
+    "main.eae69d96.js.map": "/static/js/main.eae69d96.js.map"
   },
   "entrypoints": [
     "static/css/main.e8c1b32a.css",
-    "static/js/main.40aaf27a.js"
+    "static/js/main.eae69d96.js"
   ]
 }
